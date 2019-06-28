@@ -1,1 +1,1 @@
-#Email
+# This is for Sending Email with Python script using Python standard lib smtplib.Before using this script, you need to change the configuration of your gmail as your gmail might be secure and do not allow a third party to connect.
